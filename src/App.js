@@ -47,3 +47,7 @@ class App extends Component{
 }
 
 export default App;
+// {/* <Link to = './Api.js'>Pulling in API Data</Link>
+        // {/* <button>
+        // <a href={<Api/>}  style={{color: 'white'}}>Pulling in API Data</a>
+        // </button> */} */}
